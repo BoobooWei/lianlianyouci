@@ -31,6 +31,7 @@ infrastructure n. 下部构造；基础设施；下部组织
 
 
 
+
 ### content
 
 【v】 使满足
@@ -59,6 +60,7 @@ self-contented adj.自满的；沾沾自喜的
 12. `convention`，分析：由`con`+`vent`+`ion`组成，`con`大家，`vent`到来，*大家一起来*【n】大会，习俗，惯例；与contention近义词，开大会，重在研讨，没有争论之意，例会
 13. `controversy`,分析：词根为`ver`反转颠覆，*大家反复的看法* 【n】争论，辩论，论战；`controversial`【adj】有争议的
 14. `arrogant`【adj】高傲的
+
 
 
 
@@ -107,7 +109,10 @@ contract n. 契约；合同 v.使收缩，使缩小；使缩短
 
 笔记
 
-1. `define`，分析：`de`+`fine`；`fine`为
+1. 前缀`de`代表`向下`
+2. `define`，分析：`de`+`fine`；`fine`为【n】罚款，例如`levy a fine on` or `levy a tax on`，而罚款的目的就是为了限制别人，`de`向下之意，合在一起就是向下限制，限定，下定义
+3. 固定短语`be defined as`被定义为
+4. `infinite`【n】无限【adj】无限的
 
 
 
@@ -121,6 +126,17 @@ contract n. 契约；合同 v.使收缩，使缩小；使缩短
 
 immigration  n. 移居；移民
 emigrate v. 移居国外；移民
+
+笔记
+
+1. 前缀`im`代表`里面`
+2. 前缀`e`=`ex`=`out`代表`外面`
+3. `immigrant`分析：由`im`和`migrant`组成；`im`进来；`migrant`【n】移居者【adj】迁移的；*合在一起就是从外面移进来的* 【n】（外来）移民【adj】 ( 从国外 ) 移来的；移民的
+4. `migrate`【v】移动，迁移；
+5. `migration`【n】移民；
+6. `migrant`【n】移居者【adj】迁移的；
+7. `emigrate`分析：`e`往外；`migrate`【v】移动；*向外移出* 【v】 移居国外；移民
+
 
 
 
@@ -136,6 +152,13 @@ comprehensive  adj. 全面的；综合性的；能充分理解的；广泛的
 
 beyond one’s comprehension 不可理解
 
+分析
+
+1. `ive`结尾的形容词代表`一种抽象出来的性质`
+2. `comprehensive`分析：*阅读理解题目考的就是学生一个全面的能力* 【adj】 全面的；综合性的
+3. `beyond one's imagination`超出某人的想象
+4. `beyond one's scope`超出了某人的视野
+
 
 
 ### potential
@@ -148,9 +171,22 @@ beyond one’s comprehension 不可理解
 possible adj. 可能的；潜在的
 probable adj. 可能的；大概的；很有希望的
 
+笔记
+
+1. `potential grilfriend`潜在女友，准女友
+
+2. `potential employer`潜在雇主，准老板
+
+3. `would-be mother`孕妇，准妈妈
+
+   | 可能性      | 大小    |
+   | -------- | ----- |
+   | possible | 可能性不大 |
+   | probable | 可能性很大 |
 
 
-### mass  
+
+### mass
 
 【adj.】大规模的，群众的；大量的
 【n.】块，团；群众，民众；大量，众多；质量
@@ -167,6 +203,16 @@ biomass n. （单位面积或体积内）所有生物的数量
 rally
 vt. 团结起来；一致支持；恢复；振作
 n. 群众大会；集会；（汽车；摩托车等的）公路大赛
+
+笔记
+
+1. 前缀`bio`代表`生命`
+2. `massacre`分析：由`mass`和`acre`组成，`mass`很多人;`acre`一公顷；*一公顷的土地上死了很多人*【n】大屠杀
+3. `slaughter`【n】大屠杀；laughter【v】笑 ;`s`*别人死了你就笑*——大屠杀
+4. `butcher`【n】屠夫 `saw`【n】电锯惊魂
+5. `biography`【n】传记
+6. `autobiography` 【n】自传
+7. `rally`分析：`r`+`all`+`y`;重点是`all`,*大家聚集起来，气氛很活跃*
 
 
 
@@ -194,6 +240,10 @@ contrast
 v. 对比；对照；截然不同；有明显差异
 n. 对比；差别；悬殊
 
+笔记
+
+1. `contrast`名词用法跟多，`By contrast`表示强转折=`Howerver`=`in contrast to`然而，相反的是
+
 
 
 ### feature 
@@ -201,6 +251,10 @@ n. 对比；差别；悬殊
 【v.】 vt. 以…为特色
 【n.】特色，特征
 【n.】特写（或专题）
+
+笔记
+
+​	1.`feature` 表示特别描述
 
 
 ### involve 
@@ -219,7 +273,25 @@ invalid adj. 无效的；站不住脚的 n. 病人；残废者
 engage v. 使从事；使参与；使参加谈话
 occupy v. 占据；使从事
 
+笔记
 
+1. 词根`volve`代表`自转`
+2. 词根`rotate`代表`公转`
+3. `involve`分析：`in`+`volve` ；`volve`沃尔沃汽车*汽车发动机在转，往里转*【v.】使……卷入；牵涉；涉及；包含
+4. `revolve`分析：`re`+`volve`；*反复地转*【v】 使…旋转；使…循环；反复考虑
+5. `evolve `分析：`e`+`volve`；*往外转，美少女战士变身，一边旋转一遍脱衣服*【v】发展，进化；使逐步形成；`evolution`【n】 演变；进化论；进展
+6. `invalid`分析：`in`+`valid`；【adj】 无效的；站不住脚的 *形容词可以直接做名词，什么样的人*【n】 病人；残废者
+7. `valid`【adj】有效的
+8. `validity`【n】有效性
+9. `engage`分析：`en`+`gage`；`gage`【v】抵押；*将自己都押进去了*
+10. 固定短语`be engaged in`全身心干某事
+11. `occupation`【n】 职业；占有；消遣；占有期
+12. `mortgage`【v】担保，抵押
+13. `moral`【adj】 道德的；精神上的；品性端正的
+    | 卷入      | 感情色彩        |
+    | ------- | ----------- |
+    | involve | 偏消极，被卷入一场纷争 |
+    | engage  | 偏积极         |
 
 ### segment
 
