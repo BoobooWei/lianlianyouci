@@ -288,10 +288,10 @@ occupy v. 占据；使从事
 11. `occupation`【n】 职业；占有；消遣；占有期
 12. `mortgage`【v】担保，抵押
 13. `moral`【adj】 道德的；精神上的；品性端正的
-    | 卷入      | 感情色彩        |
-    | ------- | ----------- |
-    | involve | 偏消极，被卷入一场纷争 |
-    | engage  | 偏积极         |
+   | 卷入      | 感情色彩        |
+   | ------- | ----------- |
+   | involve | 偏消极，被卷入一场纷争 |
+   | engage  | 偏积极         |
 
 ### segment
 
@@ -302,7 +302,12 @@ occupy v. 占据；使从事
 section n. 部分；章节
 fraction  n. 一小部分；些微
 
+笔记
 
+1.  前缀`seg`=`sep`=`sec`代表`分离，一小部分`
+2. `segregation`=`separation`=`section`
+3. `fracture`骨折，*骨头折断了，摔碎了，成了碎片*
+4. `a fragment of`=`many` 一些，一块
 
 ### access
 
@@ -319,7 +324,11 @@ adj. 易接近的；可进入的；可理解的
 give access to 获得
 access road 进出某处的）通道
 
+笔记
 
+1. 词根`cess`代表`走路`
+2. 短语`accessible lover`亲密爱人
+3. 短语`give access to`是重点，*使某人获得，接触到*，eg. give you easy access to bad thing
 
 ### cover
 
@@ -338,7 +347,23 @@ cloak
 n. 斗蓬；宽大外衣；覆盖物；遮盖物
 vt. 笼罩；覆盖；遮掩
 
+笔记
 
+1. `recovery`分析：`re`+`covery`,再一次,掩盖，*手上破皮了，结盖了，就说明回复了*【n】恢复，痊愈
+
+2. `discovery`分析：`dis`+`covery`，不，掩盖，*不掩盖就会被发觉*【v】发觉，发现
+
+3. `unveil`分析：`un`+`veil`，没有，幕布，*幕布没了*【v】揭幕
+
+4. `uncover`分析：`un`+`cover`，没有，盖子，*盖子被打开了*【v】打开，揭开
+
+5. | 单词    | 区别                            |
+   | ----- | ----------------------------- |
+   | cover | 中性，盖住                         |
+   | cloak | 贬义，掩盖，隐藏=hide=concedal*全部被封存* |
+   | cape  | 披肩                            |
+
+   ​
 
 ### reveal
 
@@ -351,7 +376,12 @@ unveil vt. 使公诸于众，揭露
 display v. 显示；陈列
 disclose vt. 公开；揭露
 
+笔记
 
+1. 词根`veal`=`vela`=`vel`代表`覆盖`
+2. 前缀`re`代表`再一次`|`相反的`|`回，向后`
+3. `reveal`分析：`re`+`veal`,相反的，覆盖，*跟覆盖相反就是透露咯~*【v】显示，透露，揭露
+4. `display`分析：`dis`+`play`,四处，表演*到处表演，演示*【v】公开，揭露
 
 ### analysis
 
@@ -362,7 +392,13 @@ disclose vt. 公开；揭露
 anatomy n. 解剖；解剖学；剖析；骨骼
 probe n. 探查；调查
 
+笔记
 
+1. 前缀`ana`代表`分析`
+2. `pro`代表`向前`
+3. 注意读音，`analysis`【n】分析，重心在中间，`analyze`【v】分析，重心在最前面，*很少有这种情况，一般都是名字重音在前面*；还有一个词`paralysis`【n】残疾；`paralyze`【v】瘫痪
+4. `anatomy`分析：`ana`+`tomy`，`tomy`意为`tomb`坟墓，*坟墓里面埋得是死人，分析死人*【n】解剖
+5. `probe`分析：`pro`+`be`,*向前刺探*【n】调查
 
 ---
 
