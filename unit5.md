@@ -288,10 +288,10 @@ occupy v. 占据；使从事
 11. `occupation`【n】 职业；占有；消遣；占有期
 12. `mortgage`【v】担保，抵押
 13. `moral`【adj】 道德的；精神上的；品性端正的
-   | 卷入      | 感情色彩        |
-   | ------- | ----------- |
-   | involve | 偏消极，被卷入一场纷争 |
-   | engage  | 偏积极         |
+| 卷入      | 感情色彩        |
+| ------- | ----------- |
+| involve | 偏消极，被卷入一场纷争 |
+| engage  | 偏积极         |
 
 ### segment
 
@@ -305,9 +305,9 @@ fraction  n. 一小部分；些微
 笔记
 
 1.  前缀`seg`=`sep`=`sec`代表`分离，一小部分`
-2. `segregation`=`separation`=`section`
-3. `fracture`骨折，*骨头折断了，摔碎了，成了碎片*
-4. `a fragment of`=`many` 一些，一块
+2.  `segregation`=`separation`=`section`
+3.  `fracture`骨折，*骨头折断了，摔碎了，成了碎片*
+4.  `a fragment of`=`many` 一些，一块
 
 ### access
 
@@ -409,15 +409,46 @@ probe n. 探查；调查
 2007 年阅读 Text 3
 From the middle-class family perspective, much of this, understandably, looks far less like an opportunity to exercise more financial responsibility, and a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders.
 
+笔记
+
+1. `from my perspective`从我的观点
+2. `look far less like`看起来不像是
+3. `a good deal more like`而更像是
+4. 技巧：否定部分可以直接省略
+5. `decelerate`减速
+6. `accelerate`加速
+7. `wholesale shift`全方位
+8. `frighten`可怕
+9. `less is more`人生要做减法
+
 ### dealing [n]行为；交易；交往
 
 2009 年翻译
 If humanity has made some headway in realizing that the ultimate value of every institution is its distinctively human effect, we may well believe that this lesson has been learned largely through dealings with the young.
 
+笔记
+
+1. `ultimate value`终极价值
+2. `distinguish`区别区分【v】
+3. `distinctively`【adv】独一无二的，与众不同的，褒义，积极的情感 
+4.  `deal with the young`
+5. `bend their knees to`对某人卑躬屈膝
+
 ### infrastructure [n]基础设施 
 
 2009 年阅读新题型
 All in all, this clearly seems to be a market in which big retailers could profitably apply their scale, existing infrastructure and proven skills in the management of product ranges, logistics, and marketing intelligence.
+
+笔记
+
+1. `all in all`总之
+2. `big retailers`大的零售商
+3. `apply their scale`应用他们的影响力（范围）
+4. `in the name of love`以爱之名
+5. `in the accompaniment of`在谁的陪伴下
+6. `in the management of `以来管理
+7. `logistics`物流
+8. `marketing intelligence`营销信息
 
 ### define [adj]下定义的 
 
@@ -429,10 +460,20 @@ The defining term of intelligence in humans still seems to be the IQ score, even
 2007 年阅读新题型
 Even if a job’s starting salary seems too small to satisfy an emerging adult’s need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move.
 
+笔记
+
+1. `too to`太而不能
+2. `emerging adult's need`崭露头角的年轻人的需求=`the start-up adult`
+3. `transit`运输；`transtion`过度
+
 ### content[n] ( 教育项目或课程的 ) 内容
 
 2014 年阅读 Text 4
 The commission ignores that for several decades America’s colleges and universities have produced graduates who don’t know the content and character of liberal education and are thus deprived of its benefits.
+
+笔记
+
+1. `be deprived of`
 
 ### immigration  n. 移居；移民
 
@@ -454,6 +495,13 @@ Basic economics suggests the greater the potential consumers, the higher the lik
 2013 年阅读 Text 1
 For H&M to offer a $5.95 knit miniskirt
 in all its 2,300-plus stores around the world, it must rely on low-wage overseas labor, order in volumes that strain natural resources, and use massive amounts of harmful chemicals.
+
+笔记
+
+1. `knit miniskirt` 针织迷你裙
+2. `kn`小点
+3. `a string of`一串
+4. ​
 
 ### biomass[n.] (单位面积或体积内)生物的数量
 
