@@ -431,7 +431,7 @@ If humanity has made some headway in realizing that the ultimate value of every 
 1. `ultimate value`终极价值
 2. `distinguish`区别区分【v】
 3. `distinctively`【adv】独一无二的，与众不同的，褒义，积极的情感 
-4.  `deal with the young`
+4. `deal with the young`
 5. `bend their knees to`对某人卑躬屈膝
 
 ### infrastructure [n]基础设施 
@@ -501,12 +501,17 @@ in all its 2,300-plus stores around the world, it must rely on low-wage overseas
 1. `knit miniskirt` 针织迷你裙
 2. `kn`小点
 3. `a string of`一串
-4. ​
+4. `order in volumes`大的订单
 
 ### biomass[n.] (单位面积或体积内)生物的数量
 
 2006 年阅读 Text 3
 Their methods do not attempt to estimate the actual biomass (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.
+
+笔记
+
+1. `estimate` 评估
+2. `but rather`而是
 
 
 ### compare [v.] 比较；相比；对比；比作
@@ -514,44 +519,124 @@ Their methods do not attempt to estimate the actual biomass (the amount of livin
 2013 年阅读 Text 2
 DNT does not seem an obviously huge selling point for Windows 8—though the firm has compared some of its other products favorably with Google’s on that count before.
 
+笔记
+
+1. `an obviously huge selling point`一个显著的卖点
+2. `Nerver count on me`别指望我
 
 ### compare to：与……相比；把……比作
 
 2008 年阅读 Text 1
 “Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men," according to Dr. Yehuda, chief psychiatrist at New York’s Veteran’s Administration Hospital.
 
+笔记
+
+1. `be .. to`受到什么的影响
+2. `psyc`词根，心理 `mentail` 心理的
+3. `physical`身体的
+4. `Veteran`老兵，老油条，老员工
+5. `gambler`公务员（赌博）
+6. `guanxi`中国式关系
 
 ### feature[n] 特征；特色 
 
 2007 年翻译
 However, only in recent years has it become a feature of undergraduate programs in Canadian universities.
 
+笔记
+
+1. ` only in recent years`只有在最近这几年，`has it`倒装句
+2. `a feature of`可以解释成`many` ，`a feature of undergraduate programs`一些本科生项目
+3. `in Canadian universities`在加拿大大学里面
+4. 只有在最近几年，它才变成了加拿大大学本科生项目的一个特色，这里的`it`是谁？翻译的话得满分，要翻译出来，要往上找，因为`it`是指代词。
+5. 翻译题想得高分的关键，指代词要翻译出来。
+
 ### feature[n] 特写 ( 或专题 ) 
 
 2014 年阅读 Text 3
 As a News Feature article in Nature discusses, a string of lucrative awards for researchers have joined the Nobel Prizes in recent years.
+
+笔记
+
+1. `As a News Feature article in Nature discusses`作为自然学科当中的新闻专刊
+2. `a string of lucrative awards for researchers`一些很有吸引力的奖项
+3. `lucrative`有利可图的，等于`profitable`，这两个都是褒义词
+4. `the Nobel Prizes`诺贝尔奖
+5. `lure`诱饵，鱼饵，n.
 
 ### involve [v] 包含
 
 2006 年翻译
 They may teach very well and more than earn their salaries, but most of them make little or no independent reflections on human problems which involve moral judgment.
 
+笔记
+
+1. 他们可能书教的特别好，也不仅仅是挣点钱，但他们中的大多数，`make little`很少，`or no`【他加了个no还是没有】甚至没有独立的思考，【`reflect on`思考】，没有关于人类的思考，`which involve moral judgment`这些人类的问题包含了很多道德判断。
+2. 他们可能书教的特别好，也不仅仅是挣点钱，但他们中的大多数很少甚至没有关于包含了很多道德判断的人类思考。
+3. 如果是阅读理解，那么大概捋顺，如果是翻译题那么要求就要高一些了。
+
+
 ### segment [n.] 部分；段；片；节
 
 2010 年阅读新题型
 This development is boosting wholesale demand from the food service segment by 4 to 5 percent a year across Europe, compared with growth in retail demand of 1 to 2 percent. Meanwhile, as the recession is looming large, people are getting anxious.
+
+笔记
+
+1. `This development`这个发展 `is boosting` 正在推动 `wholesale demand`批发 `from the food service segment` 食品服务部分的 `by 4 to 5 percent a year across Europe` 在欧洲一年增加了百分之4到百分之5   `compared with`与..的对比 `growth in retail demand of 1 to 2 percent`零售方面的增长是百分之1到百分之2 `Meanwhile, as the recession is looming large, people are getting anxious.` 同时，随着经济萧条越来越大，人们变得越来越紧张
+2. `boost`v. 推动，跟`boast`v.吹牛皮，很像
+3. `wholesale` 全方位
+4. `recession`退步萧条，`cess`走路 `be access to`接近靠近 `re`往后
+5. `loom`织布机n. `looming`逼近，隐约出现
+6. `anxious`紧张的adj
+
 
 ### cover [n] ( 书的 ) 封面 
 
 2011 年阅读 Text 4
 It’s no surprise that Jennifer Senior’s insightful, provocative magazine cover story, “I love My Children, I Hate My Life,” is arousing much chatter—nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience.
 
+笔记
+
+1. `It’s no surprise that` 我们并不惊讶于..
+2. ` Jennifer Senior’s insightful, provocative magazine cover story,`JS的有深刻见解的，有煽动性的杂志封面故事
+3. ` “I love My Children, I Hate My Life,” `我爱我的孩子，我恨我的生活
+4. ` is arousing much chatter` 引起了很多热议
+5.  `insightful`adj. 有深刻见解的，富有洞察力的
+6.  `provoke`v.煽动 "voke","voc","voice"代表发出声音 `pro`在什么前面，我在讲课突然有人跑到我的前面发出声音说你的脸上有一粒米！
+7.  `arouse`vt. 引起；唤醒；鼓励 vi. 激发；醒来；发奋
+8.  `that child rearing is anything less than a completely fulfilling, life-enriching experience.`抚养孩子可以是任何意见事情，但绝对不可能是完全的开心的增加人生体验的事情
+
+
 ### coverage [n] 新闻报道 
 
 2010 年阅读 Text 1
 Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage.
 
+笔记
+
+1. `take place`发生
+2. `during the past quarter-century`四分之一的世纪
+3. `the most far-reaching`最有影响力的
+4. `the inexorable decline in the scope `  在审美的不可避免的下滑
+5. `inexorable`adj. 无情的；不屈不挠的；不可阻挡的；无法改变的
+6. `and seriousness of their arts coverage`他们的艺术报道的严重性
+
+
 ### analysis [n] 分析
 
 2009 年阅读 Text 1
 The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.
+
+笔记
+
+1. `The current emphasis on standardized testing`标准测试的强调
+2. `highlights`着重提出了
+3. `analysis and procedure`分析过程和程序的重要性
+4. `meaning that`意味着
+5. `few of us`我们当中很少有人
+6. `inherently`adv. 内在地；固有地；天性地
+7. ` inherently use our innovative and collaborative modes of thought.`天生会使用我们的创新精神和协作精神
+8. `modes of thought`思维模式
+9. `innovative` 美 ['ɪnəvetɪv] adj. 革新的，创新的；新颖的；有创新精神的
+10. `collaborative` 美 [kə'læbəretɪv]  adj. 合作的，协作的
